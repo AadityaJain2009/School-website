@@ -1,0 +1,94 @@
+H1{
+    text-align: center;
+    
+}
+.act_head{
+    display: inline-block;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+#alu{
+    text-align: left;
+}
+#center{
+    text-align: center;
+}
+div.static {
+    position: static;}
+#SIZEE{
+    width: 210px;
+    height: 210px;
+}
+#hw{
+    width:210px;
+    height: 210px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.p_modal{
+    font-size: 20px;
+    text-align: center;
+}
+.img_modal{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h5{
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
+    
+}
+#src{
+    width: 300px;
+    height:320px;
+}
+#src1{
+    width: 300px;
+    height:320px;
+}
+hr{
+    width: 100%;
+    height: 30px;
+    color: black;
+}
+h2{
+    text-align: center;
+}
+#mar{
+    font-family: "Sofia", sans-serif;
+    font-size: 25px;
+}
+#o{
+    font-size: 30px;
+    font-family: Sofia;
+}
+#www{
+    width:300px;
+    height:500px;
+}
+#wwww{
+    width: 300px;
+    height: 300px;
+}
+#campus{
+    text-align: center;
+}
+table {
+  border-spacing: 5px;
+}
+#position{
+    position: fixed;
+}
+.size1{
+    width: 200px;
+    height:200px;
+}
+.size{
+    width: 200px;
+    height: 200px;  
+}
